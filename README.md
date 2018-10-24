@@ -16,6 +16,6 @@ It is recommended that you spend some time looking over the following articles f
 
 6. [Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)
 
-7. [Forms] (https://reactjs.org/docs/forms.html)
+7. [Forms](https://reactjs.org/docs/forms.html)
 
 The rest of the articles in this series are all very valuable as well and you would do well to check them out at some point.
